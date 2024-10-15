@@ -17,4 +17,4 @@ elif operation == "*":
 
 else:
     total = a / b 
-    pritn(f"total: {total}")
+    print(f"total: {total}")
